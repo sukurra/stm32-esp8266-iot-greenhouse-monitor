@@ -1,0 +1,13 @@
+wifi  PB11---RX   PB10 ---TX
+OLED（四线） PB12--SCK  PB13--SDA
+DHT11 PB14---DATA
+JW01（二氧化碳）BT  --PA3
+排扇  PB15  --IN
+光敏电阻  PA5
+LED  PB0
+水泵  PA11 --IN
+土壤湿度传感器  PA4--AO
+报警器 （BELL） PB1
+KEY1  -PAO  KEY2--PB5  KEY3--PB8  KEY4  --PB9  按下为低电平
+加热器 PA7
+记忆存储器（AT24c04）  SDA PB7  SCL PB6 

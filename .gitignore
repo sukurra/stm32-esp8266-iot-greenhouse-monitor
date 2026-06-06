@@ -1,0 +1,49 @@
+# Keil / ARM build outputs
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.sct
+*.htm
+*.build_log.htm
+*.dep
+*.Bak
+*.uvguix.*
+
+# Keil generated directories
+代码/project/Objects/
+代码/project/Listings/
+代码/project/DebugConfig/
+
+# Proteus / EDA generated noise
+*.pdsbak
+*.workspace
+PCB/History/
+
+# Large presentation / video / reference files not suitable for a portfolio repo
+讲解视频/
+答辩PPT.pptx
+刺梨产业智慧农业大数据综合服务平台项目建设方案(ppt).pptx
+毕业设计论文格式参考.pdf
+参考文章A.doc
+智产211仲宁 基于STM32农情监测气象站系统设计.docx
+
+# Third-party tools and mobile installers
+*.exe
+*.apk
+*.ipa
+ESP8266固件烧录/烧写软件/
+
+# Temporary files
+*.tmp
+*.log
+*.zip
+~$*
+Thumbs.db
+.DS_Store
