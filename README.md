@@ -188,36 +188,6 @@ smart-greenhouse-monitor/
 └─ app/                  机智云 APP 使用说明
 ```
 
-## GitHub 上传建议
-
-建议上传：
-
-- `代码/user/`
-- `代码/Gizwits/`
-- `代码/Utils/`
-- `代码/CMSIS/`
-- `代码/lib/`
-- `代码/project/smart-greenhouse.uvprojx`
-- `PCB/原理图.pdf`
-- `PCB/核心电路板.pdf`
-- `PCB/PCB(改版20231122）.PcbDoc`
-- `仿真/stm32f103.pdsprj`
-- `仿真/smart-greenhouse.hex`
-- `bom.xlsx`
-- `毕设硬件对接口.txt`
-- 精选后的 `文档图片/`
-
-不建议上传：
-
-- `代码/project/Objects/`
-- `代码/project/Listings/`
-- `*.o`、`*.d`、`*.crf`、`*.axf`、`*.map`、`*.lst`
-- `*.uvguix.*`
-- `讲解视频/` 中的大视频文件
-- `答辩PPT.pptx` 等大体积答辩文件
-- 参考论文、论文格式模板、无关项目 PPT
-- 第三方烧录工具 exe
-- APP 安装包 `*.apk`、`*.ipa`
 
 ## 个人贡献
 
